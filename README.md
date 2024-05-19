@@ -40,3 +40,4 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications.
 
+<p align="center">*********</p>
