@@ -11,7 +11,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
 
--->
+
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,6 +21,8 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+-->
 
 ## Introduction
 My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.
@@ -47,6 +49,8 @@ To run this portfolio locally, follow these steps:
 - Start the development server: `npm start`
 - Open your browser and visit: `http://localhost:3000`
 
+<!--
+
 ## Usage
 After installing and running the project locally, you can navigate through the different sections of the portfolio using the navigation menu. Explore the About Me section to learn more about my background and skills. Visit the Projects section to see detailed information about my projects, including descriptions and screenshots. Use the Contact section to send me a message or inquiry.
 
@@ -61,3 +65,5 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+-->
