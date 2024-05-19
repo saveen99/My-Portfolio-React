@@ -3,7 +3,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 <!--
 
-## Some Images:
+### Some Images:
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
@@ -15,17 +15,17 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 -->
 
-## Introduction
+### Introduction
 My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.
 
-## Features
+### Features
 - About Me: An overview of my background, skills, and experiences.
 - Projects: A collection of my notable projects with descriptions, screenshots, and links.
 - Skills: A list of my technical skills and proficiencies.
 - Resume: A link to download my resume.
 - Contact: A form to send me messages or inquiries.
 
-## Technologies Used
+### Technologies Used
 - React.js: A JavaScript library for building user interfaces.
 - HTML5 & CSS3: Markup and styling languages for building web pages.
 - JavaScript: A programming language for adding interactivity to web applications.
@@ -33,7 +33,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications.
 
-## How to run this portfolio:
+### How to run this portfolio:
 
 - Install the dependencies: `npm install`
 - Start the development server: `npm start`
