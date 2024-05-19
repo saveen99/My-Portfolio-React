@@ -13,15 +13,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 -->
 
 ## Introduction
