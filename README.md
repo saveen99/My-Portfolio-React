@@ -18,6 +18,13 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ### Introduction
 My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.
 
+### How to run this portfolio:
+
+- Install the dependencies: `npm install`
+- Start the development server: `npm start`
+- Open your browser and visit: `http://localhost:3000`
+
+
 ### Features
 - About Me: An overview of my background, skills, and experiences.
 - Projects: A collection of my notable projects with descriptions, screenshots, and links.
@@ -32,10 +39,4 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 - Style-Components: A CSS framework for creating responsive and mobile-first designs.
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications.
-
-### How to run this portfolio:
-
-- Install the dependencies: `npm install`
-- Start the development server: `npm start`
-- Open your browser and visit: `http://localhost:3000`
 
