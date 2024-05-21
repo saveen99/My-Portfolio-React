@@ -251,16 +251,15 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Podstream",
-    date: "Apr 2023 - May 2023",
+    title: "Hardware-Management-WebSystem-PHP ",
+    date: "jun 2023 - Sep 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    tags: ["Boostrap", "PHP", "MySQL", "JavaScript"],
+    category: "website",
+    github: "https://github.com/saveen-maduranga/Hardware-Management-WebSystem-PHP",
     member: [
       {
         name: "Rishav Chanda",
