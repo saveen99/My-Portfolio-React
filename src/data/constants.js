@@ -24,7 +24,7 @@ export const skills = [
         name: "React Js",
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
-      },
+      },/*
       {
         name: "Redux",
         image:
@@ -34,7 +34,7 @@ export const skills = [
         name: "Next Js",
         image:
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
-      },
+      },*/
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -53,7 +53,7 @@ export const skills = [
         name: "Bootstrap",
         image:
           "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-      },
+      },/*
       {
         name: "Material UI",
         image:
@@ -63,7 +63,7 @@ export const skills = [
         name: "Flutter",
         image:
           "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
-      },
+      },*/
     ],
   },
   {
@@ -72,7 +72,7 @@ export const skills = [
       {
         name: "Node Js",
         image: "https://nodejs.org/static/images/logo.svg",
-      },
+      },/*
       {
         name: "Express Js",
         image:
@@ -81,7 +81,7 @@ export const skills = [
       {
         name: "Graph Ql",
         image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
-      },
+      },*/
       {
         name: "Python",
         image:
@@ -91,11 +91,11 @@ export const skills = [
         name: "MySQL",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
-      },
+      },/*
       {
         name: "Postgresql",
         image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      },
+      },*/
       {
         name: "MongoDB",
         image:
@@ -119,12 +119,12 @@ export const skills = [
         name: "Kotlin",
         image:
           "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
-      },
+      },/*
       {
         name: "XML",
         image:
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
-      },
+      },*/
       {
         name: "Android Studio",
         image:
@@ -138,13 +138,13 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/git.png?alt=media&token=5c283d77-aca4-4cd6-b976-dbbfb2125dd6",
       },
       {
         name: "GitHub",
         image:
           "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-      },
+      },/*
       {
         name: "Docker",
         image:
@@ -154,17 +154,17 @@ export const skills = [
         name: "Netlify",
         image:
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
-      },
+      },*/
       {
         name: "VS Code",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/vscode.png?alt=media&token=0bea8a4a-eb93-4483-bad0-0d92837cdad4",
       },
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
-      },
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/postman.svg?alt=media&token=611bb5d9-8690-4080-882e-be62c6e50053",
+      },/*
       {
         name: "Adobe XD",
         image:
@@ -174,7 +174,7 @@ export const skills = [
         name: "Figma",
         image:
           "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
-      },
+      },*/
     ],
   },
 ];
@@ -238,7 +238,7 @@ export const projects = [
       "Node Js",
       "Express Js",
     ],
-    category: "website",
+    category: "web app",
     github: "https://github.com/saveen-maduranga/Hotel-Restaurant-WebProject",
   },
   {
@@ -250,7 +250,7 @@ export const projects = [
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["Boostrap", "PHP", "MySQL", "JavaScript"],
-    category: "website",
+    category: "web app",
     github: "https://github.com/saveen-maduranga/Hardware-Management-WebSystem-PHP",
     member: [
       {
@@ -279,7 +279,7 @@ export const projects = [
       "C#",
       "MySQL",
     ],
-    category: "web app",
+    category: "software app",
     github: "https://github.com/saveen-maduranga/GUI-Application-Fashion-House-",
   },
   {
@@ -291,7 +291,7 @@ export const projects = [
     image:
       "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
     tags: ["Java Spring", "Lombok", "MySQL", "JPA"],
-    category: "API",
+    category: "api",
     github: "https://github.com/saveen-maduranga/API-Social-media-Platform-Spring-Boot",
     member: [
       {
@@ -317,7 +317,7 @@ export const projects = [
     image:
       "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
     tags: ["Java", "MySQL"],
-    category: "Software",
+    category: "software app",
     github: "https://github.com/saveen-maduranga/Library_Management_System",
   },
   {
@@ -329,7 +329,7 @@ export const projects = [
     image:
       "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
     tags: ["React Js", "Firebase"],
-    category: "Web app",
+    category: "web app",
     github: "https://github.com/saveen-maduranga/Chat-app-React-and-Firebase",
   },
 ];
