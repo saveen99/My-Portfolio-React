@@ -226,12 +226,12 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Hotel Restaurant Web Project",
-    date: "Jun 2023 - Jul 2023",
+    title: "Hotel Restaurant Web Project (Peellakanda Reception)",
+    date: "Jun 2023 - Sep 2023",
     description:
       "",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/pallekandaHotel.jpeg?alt=media&token=4bf5dd27-7c5c-4b13-aa36-fc0d76ad06cd",
     tags: [
       "React Js",
       "MongoDb",
@@ -240,97 +240,146 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/saveen-maduranga/Hotel-Restaurant-WebProject",
+    member: [
+      {
+        name: "Ishan Sandaruwan",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/ishan.png?alt=media&token=c2b6ff38-3157-4cb6-9cb4-d3326a1becaa",
+        linkedin: "https://www.linkedin.com/in/ishan-sandaruwan-06632223a/",
+        github: "https://github.com/Ishan-Sandaruwan/",
+      },
+      {
+        name: "Udara Herath",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/udara.png?alt=media&token=0a755748-b610-43f9-8d47-37e50b41209a",
+        linkedin: "https://www.linkedin.com/in/udara-herath-61a1ab114/",
+        github: "https://github.com/SasithaU/",
+      },
+      {
+        name: "Pamod Rathnayake",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/pamod.jpg?alt=media&token=c6662cb9-4db1-42d9-a36d-609d63836a87",
+        linkedin: "https://www.linkedin.com/in/pamod-rathnayake-3b2056212/",
+        github: "https://github.com/PamodRathnayake/",
+      },
+    ],
   },
   {
     id: 0,
-    title: "Hardware Management Web System ",
-    date: "jun 2023 - Sep 2023",
+    title: "Hardware Management Web System (WPL Trading)",
+    date: "Sep 2023 - Dec 2023",
     description:
       "",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/wpl.png?alt=media&token=e7d97cc8-abb3-4a91-ad48-63dbc22a9245",
     tags: ["Boostrap", "PHP", "MySQL", "JavaScript"],
     category: "web app",
     github: "https://github.com/saveen-maduranga/Hardware-Management-WebSystem-PHP",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        name: "Wimukthi Manchanayake",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/wimukthi.jpeg?alt=media&token=2b9ac231-e5a2-410c-8381-a5a3a05653e2",
+        linkedin: "https://www.linkedin.com/in/wimukthi-manchanayaka-93b527283/",
+        github: "https://github.com/Wimukthi-Manchanayaka/",
       },
       {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
+        name: "Thevni Thinesa",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/thevni.jpg?alt=media&token=a9d4552d-a935-4670-9876-5e56dc6a7509",
+        linkedin: "https://www.linkedin.com/in/thevni-thinesa-2b066a240/",
+        github: "https://github.com/thevni-thinesa/",
+      },
+      {
+        name: "Shazna Salman",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/default.jpg?alt=media&token=079da252-dc96-4451-9475-c926ee99ffa1",
+        linkedin: "https://www.linkedin.com/in/shaznasalman10/",
+        github: "https://github.com/ShaznaSalman/",
       },
     ],
   },
   {
     id: 1,
-    title: "GUI Application Fashion House",
-    date: "Oct 2022 - Present",
+    title: "GUI Application for Fashion House",
+    date: "Jan 2023 - Feb 2023",
     description:
       "",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/fasionHouse.png?alt=media&token=e3675e38-1131-42ee-bfec-3e967e750b57",
     tags: [
       "C#",
       "MySQL",
     ],
     category: "software app",
     github: "https://github.com/saveen-maduranga/GUI-Application-Fashion-House-",
-  },
-  {
-    id: 2,
-    title: "API Social media Platform",
-    date: "Jan 2023 - Mar 2023",
-    description:
-      "",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Java Spring", "Lombok", "MySQL", "JPA"],
-    category: "api",
-    github: "https://github.com/saveen-maduranga/API-Social-media-Platform-Spring-Boot",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
+        name: "Pethum Jayakodi",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/pethum.jpg?alt=media&token=78331e83-e9f0-42ac-a1af-c6887464d28c",
+        linkedin: "https://www.linkedin.com/in/pethum-jayakodi-79a3a823b/",
+        github: "https://github.com/Pethum-Jayakodi/",
       },
     ],
   },
   {
-    id: 3,
-    title: "Library Management System",
-    date: "Dec 2021 - Apr 2022",
+    id: 2,
+    title: "REST API (SpringBoot) for Social media Platform",
+    date: "Sap 2023 - Oct 2023",
     description:
       "",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/restAPI.png?alt=media&token=9bb27d73-be68-4721-b148-fc0936c412a4",
+    tags: ["Java Spring", "Lombok", "MySQL", "JPA"],
+    category: "api",
+    github: "https://github.com/saveen-maduranga/API-Social-media-Platform-Spring-Boot",
+    
+  },
+  {
+    id: 3,
+    title: "Library Management System (Enterprise Application)",
+    date: "May 2023 - July 2023",
+    description:
+      "",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/LibraryMS.jpg?alt=media&token=b7df1f36-780b-477e-b939-52baf0f9eb1f",
     tags: ["Java", "MySQL"],
     category: "software app",
     github: "https://github.com/saveen-maduranga/Library_Management_System",
+    member: [
+      {
+        name: "Wimukthi Manchanayake",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/wimukthi.jpeg?alt=media&token=2b9ac231-e5a2-410c-8381-a5a3a05653e2",
+        linkedin: "https://www.linkedin.com/in/wimukthi-manchanayaka-93b527283/",
+        github: "https://github.com/Wimukthi-Manchanayaka/",
+      },
+      {
+        name: "Thevni Thinesa",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/thevni.jpg?alt=media&token=a9d4552d-a935-4670-9876-5e56dc6a7509",
+        linkedin: "https://www.linkedin.com/in/thevni-thinesa-2b066a240/",
+        github: "https://github.com/thevni-thinesa/",
+      },
+      {
+        name: "Shazna Salman",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/default.jpg?alt=media&token=079da252-dc96-4451-9475-c926ee99ffa1",
+        linkedin: "https://www.linkedin.com/in/shaznasalman10/",
+        github: "https://github.com/ShaznaSalman/",
+      },
+    ],
   },
   {
     id: 10,
-    title: "Chat App",
-    date: "Jun 2023 - Jul 2023",
+    title: "End to End Chat Application",
+    date: "Jan 2024 - Feb 2024",
     description:
       "",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Js", "Firebase"],
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/chatApp.png?alt=media&token=bb8a5248-4f9c-40d5-89ef-aae3f6159966",
+    tags: ["React Js", "Firebase", "Tailwind CSS"],
     category: "web app",
     github: "https://github.com/saveen-maduranga/Chat-app-React-and-Firebase",
+    member: [
+      {
+        name: "Ishan Sandaruwan",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/ishan.png?alt=media&token=c2b6ff38-3157-4cb6-9cb4-d3326a1becaa",
+        linkedin: "https://www.linkedin.com/in/ishan-sandaruwan-06632223a/",
+        github: "https://github.com/Ishan-Sandaruwan/",
+      },
+    ],
   },
 ];
 
