@@ -50,9 +50,9 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
       },
       {
-        name: "Bootstrap",
+        name: "Tailwind CSS",
         image:
-          "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
+          "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/tailwind.png?alt=media&token=cab3d029-777f-4d14-81ec-1c7e4da627eb",
       },/*
       {
         name: "Material UI",
