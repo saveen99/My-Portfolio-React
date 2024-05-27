@@ -121,7 +121,6 @@ const ContactButton = styled.input`
 `
 
 
-
 const Contact = () => {
 
   //hooks
