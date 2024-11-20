@@ -183,7 +183,22 @@ export const experiences = [
   {
     id: 0,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/EndlessRaven.png?alt=media&token=9cf50886-1c3a-4936-9ff1-b202919befb5",
-    role: "Front-End Developer",
+    role: "Software Developer",
+    company: "Airport & Aviation Service Sri Lanka",
+    date: "Sep 2024 - Present",
+    desc: "Working on the Software Developer using C#, MySQL, Kotlin, SQLite and JIRA Project Management Tool.",
+    skills: [
+      "C#",
+      "Kotlin",
+      "MySQL",
+      "SQLite",
+      "JIRA",
+    ],
+  },
+  {
+    id: 1,
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/EndlessRaven.png?alt=media&token=9cf50886-1c3a-4936-9ff1-b202919befb5",
+    role: "Software Developer",
     company: "Endless Raven",
     date: "Sep 2023 - Present",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
