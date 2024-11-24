@@ -199,7 +199,7 @@ export const experiences = [
     id: 1,
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/EndlessRaven.png?alt=media&token=9cf50886-1c3a-4936-9ff1-b202919befb5",
     role: "Full-Stack Developer",
-    company: "Endless Raven",
+    company: "Endless Raven (Pvt) Ltd",
     date: "Sep 2023 - Present",
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
     skills: [
