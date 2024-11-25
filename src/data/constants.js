@@ -240,39 +240,26 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
-    title: "Hotel Restaurant Web Project (Peellakanda Reception)",
-    date: "Jun 2023 - Sep 2023",
+    id: 6,
+    title: "Key Management System",
+    date: "Sep 2024 - Nov 2023",
     description:
       "",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/pallekandaHotel.jpeg?alt=media&token=4bf5dd27-7c5c-4b13-aa36-fc0d76ad06cd",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/keymanagement.jpeg?alt=media&token=1058f75e-b7b1-4974-8cd7-e1c8ea3d335e",
     tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
+      "Kotlin",
+      "SQLite",
+      "SMS Manager"
     ],
-    category: "web app",
+    category: "mobile app",
     github: "https://github.com/saveen-maduranga/Hotel-Restaurant-WebProject",
     member: [
       {
-        name: "Ishan Sandaruwan",
-        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/ishan.png?alt=media&token=c2b6ff38-3157-4cb6-9cb4-d3326a1becaa",
-        linkedin: "https://www.linkedin.com/in/ishan-sandaruwan-06632223a/",
-        github: "https://github.com/Ishan-Sandaruwan/",
-      },
-      {
-        name: "Udara Herath",
-        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/udara.png?alt=media&token=0a755748-b610-43f9-8d47-37e50b41209a",
-        linkedin: "https://www.linkedin.com/in/udara-herath-61a1ab114/",
-        github: "https://github.com/SasithaU/",
-      },
-      {
-        name: "Pamod Rathnayake",
-        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/pamod.jpg?alt=media&token=c6662cb9-4db1-42d9-a36d-609d63836a87",
-        linkedin: "https://www.linkedin.com/in/pamod-rathnayake-3b2056212/",
-        github: "https://github.com/PamodRathnayake/",
+        name: "Thevni Thinesa",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/thevni.jpg?alt=media&token=a9d4552d-a935-4670-9876-5e56dc6a7509",
+        linkedin: "https://www.linkedin.com/in/thevni-thinesa-2b066a240/",
+        github: "https://github.com/thevni-thinesa/",
       },
     ],
   },
@@ -285,7 +272,7 @@ export const projects = [
     image:
       "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/wpl.png?alt=media&token=e7d97cc8-abb3-4a91-ad48-63dbc22a9245",
     tags: ["Boostrap", "PHP", "MySQL", "JavaScript"],
-    category: "web app",
+    category: "website",
     github: "https://github.com/saveen-maduranga/Hardware-Management-WebSystem-PHP",
     member: [
       {
@@ -377,7 +364,7 @@ export const projects = [
     ],
   },
   {
-    id: 10,
+    id: 4,
     title: "End to End Chat Application",
     date: "Jan 2024 - Feb 2024",
     description:
@@ -396,6 +383,44 @@ export const projects = [
       },
     ],
   },
+  {
+    id: 5,
+    title: "Hotel Restaurant Web Project (Peellakanda Reception)",
+    date: "Jun 2023 - Sep 2023",
+    description:
+      "",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/pallekandaHotel.jpeg?alt=media&token=4bf5dd27-7c5c-4b13-aa36-fc0d76ad06cd",
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+    ],
+    category: "website",
+    github: "https://github.com/saveen-maduranga/Hotel-Restaurant-WebProject",
+    member: [
+      {
+        name: "Ishan Sandaruwan",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/ishan.png?alt=media&token=c2b6ff38-3157-4cb6-9cb4-d3326a1becaa",
+        linkedin: "https://www.linkedin.com/in/ishan-sandaruwan-06632223a/",
+        github: "https://github.com/Ishan-Sandaruwan/",
+      },
+      {
+        name: "Udara Herath",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/udara.png?alt=media&token=0a755748-b610-43f9-8d47-37e50b41209a",
+        linkedin: "https://www.linkedin.com/in/udara-herath-61a1ab114/",
+        github: "https://github.com/SasithaU/",
+      },
+      {
+        name: "Pamod Rathnayake",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/pamod.jpg?alt=media&token=c6662cb9-4db1-42d9-a36d-609d63836a87",
+        linkedin: "https://www.linkedin.com/in/pamod-rathnayake-3b2056212/",
+        github: "https://github.com/PamodRathnayake/",
+      },
+    ],
+  },
+  
 ];
 
 export const TimeLineData = [

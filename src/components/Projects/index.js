@@ -21,22 +21,34 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
+          {toggle === 'website' ?
+            <ToggleButton active value="website" onClick={() => setToggle('website')}>WEBSITE</ToggleButton>
+            :
+            <ToggleButton value="website" onClick={() => setToggle('website')}>WEBSITE</ToggleButton>
+          }
+          <Divider />
+          {toggle === 'software app' ?
+            <ToggleButton active value="software app" onClick={() => setToggle('software app')}>SOFTWARE APP</ToggleButton>
+            :
+            <ToggleButton value="software app" onClick={() => setToggle('software app')}>SOFTWARE APP</ToggleButton>
+          }
+          <Divider />
           {toggle === 'web app' ?
             <ToggleButton active value="web app" onClick={() => setToggle('web app')}>WEB APP</ToggleButton>
             :
             <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP</ToggleButton>
           }
           <Divider />
-          {toggle === 'android app' ?
-            <ToggleButton active value="android app" onClick={() => setToggle('software app')}>SOFTWARE APP</ToggleButton>
+          {toggle === 'api' ?
+            <ToggleButton active value="api" onClick={() => setToggle('api')}>API</ToggleButton>
             :
-            <ToggleButton value="android app" onClick={() => setToggle('software app')}>SOFTWARE APP</ToggleButton>
+            <ToggleButton value="api" onClick={() => setToggle('api')}>API</ToggleButton>
           }
           <Divider />
-          {toggle === 'machine learning' ?
-            <ToggleButton active value="machine learning" onClick={() => setToggle('api')}>API</ToggleButton>
+          {toggle === 'mobile app' ?
+            <ToggleButton active value="mobile app" onClick={() => setToggle('mobile app')}>MOBILE APP</ToggleButton>
             :
-            <ToggleButton value="machine learning" onClick={() => setToggle('api')}>API</ToggleButton>
+            <ToggleButton value="mobile app" onClick={() => setToggle('mobile app')}>MOBILE APP</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>
