@@ -5,6 +5,7 @@ import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import { Bio } from '../../data/constants';
 
+
 const FooterContainer = styled.div`
   width: 100%;
   padding: 2rem 0;
@@ -25,11 +26,13 @@ const FooterWrapper = styled.footer`
   color: ${({ theme }) => theme.text_primary};
 `;
 
+
 const Logo = styled.h1`
   font-weight: 600;
   font-size: 20px;
   color: ${({ theme }) => theme.primary};
 `;
+
 
 const Nav = styled.nav`
   width: 100%;
@@ -48,6 +51,7 @@ const Nav = styled.nav`
   }
 `;
 
+
 const NavLink = styled.a`
 color: ${({ theme }) => theme.text_primary};
   text-decoration: none;
@@ -61,10 +65,12 @@ color: ${({ theme }) => theme.text_primary};
   }
 `;
 
+
 const SocialMediaIcons = styled.div`
   display: flex;
   margin-top: 1rem;
 `;
+
 
 const SocialMediaIcon = styled.a`
   display: inline-block;
@@ -77,12 +83,14 @@ const SocialMediaIcon = styled.a`
   }
 `;
 
+
 const Copyright = styled.p`
   margin-top: 1.5rem;
   font-size: 0.9rem;
   color: ${({ theme }) => theme.soft2};
   text-align: center;
 `;
+
 
 function Footer() {
   return (
