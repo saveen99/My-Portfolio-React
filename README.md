@@ -1,14 +1,17 @@
 ## My Portfolio
 
+
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
 
 ### Introduction
 
+
 My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.
 
 
 ### Screenshots
+
 
 <p align="center" ><img  src = "screenshots/001.png?raw=true" width = 1000px></p>
 <p align="center" ><img  src = "screenshots/002.png?raw=true" width = 1000px></p>
