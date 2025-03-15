@@ -1,13 +1,14 @@
 export const Bio = {
-  name: "Saveen Madurangaa",
+  name: "Saveen Maduranga",
   roles: [
     "Software Developer",
     "Web Developer",
-    "Mobile App Developer",
+    "Android Developer",
+    "IOS Developer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/saveen-maduranga",
+  github: "https://github.com/saveen99",
   resume:
     "https://drive.google.com/file/d/1qvFc8cmmKaP3x_nYlq-dqDHeyi2yTnbM/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/saveen-maduranga-939250181/",
