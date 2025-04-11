@@ -71,7 +71,7 @@ export const skills = [
     skills: [
       {
         name: "Laravel",
-        image: "public/icons/laravel.svg",
+        image: "/icons/laravel.svg",
       },
       /*
       {
@@ -100,11 +100,16 @@ export const skills = [
       {
         name: "Postgresql",
         image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      },*/
+      },
       {
         name: "MongoDB",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+      },*/
+      {
+        name: "SQLite",
+        image:
+          "/icons/sqlite.svg",
       },
       {
         name: "Firebase",
