@@ -20,7 +20,6 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 -->
 
 
-
 ### How to run this portfolio:
 
 - Install the dependencies: `npm install`
