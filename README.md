@@ -18,17 +18,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 <p align="center" ><img  src = "screenshots/006.png?raw=true" width = 1000px></p>
 <p align="center" ><img  src = "screenshots/007.png?raw=true" width = 1000px></p>
 
-<!--
 
-### Some Images:
-<img width="450px;" src="screenshots/001.png"/>
-<img width="450px;" src="screenshots/001.png"/>
-<img width="450px;" src="screenshots/001.png"/>
-<img width="450px;" src="screenshots/001.png"/>
-<img width="450px;" src="screenshots/001.png"/>
-<img width="450px;" src="screenshots/001.png"/>
-
--->
 
 
 ### How to run this portfolio:
