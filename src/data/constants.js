@@ -195,10 +195,12 @@ export const experiences = [
     img: "https://firebasestorage.googleapis.com/v0/b/portfolio-16f90.appspot.com/o/aaslLogo.jpeg?alt=media&token=3a6ad515-231e-464f-bf43-23f790525d5d",
     role: "Software Developer, Intern",
     company: "Airport & Aviation Service Sri Lanka",
-    date: "Sep 2024 - Present",
+    date: "Sep 2024 - Mar 2025",
     desc: "Working on the Software Developer using C#, MySQL, Kotlin, SQLite and JIRA Project Management Tool.",
     skills: [
-      "C#",
+      "Laravel",
+      "PHP",
+      "JavaScript",
       "Kotlin",
       "MySQL",
       "SQLite",
@@ -214,9 +216,9 @@ export const experiences = [
     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
     skills: [
       "React Js",
-      "Node Js",
-      "Express Js",
-      "MongoDB",
+      "Tailwind CSS",
+      "Redux",
+      "TypeScript",
     ],
   },
 ];
