@@ -252,8 +252,25 @@ export const education = [
 
 export const projects = [
   {
+    id: 7,
+    title: "AASL - Training Management System for HR",
+    date: "Jan 2025 - Mar 2025",
+    description:
+      "",
+    image:
+      "/projects/tmSystem.jpeg",
+    tags: [
+      "Laravel",
+      "Blade",
+      "Tailwind CSS",
+      "MUI",
+      "MySQL"
+    ],
+    category: "web app",
+  },
+  {
     id: 6,
-    title: "Key Management System",
+    title: "AASL - Key Management System",
     date: "Sep 2024 - Nov 2023",
     description:
       "",
